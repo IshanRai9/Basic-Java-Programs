@@ -1,0 +1,14 @@
+class nest_loop_mult
+{
+    void main()
+    {
+        for(int i=2;i<=0;i++)//rows
+        {
+            for(int j=2;j<=40;j++)//cols
+            {
+                System.out.print('*');
+            }
+            System.out.println();
+        }
+    }
+}

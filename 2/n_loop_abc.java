@@ -1,0 +1,12 @@
+class n_loop_abc
+{
+    void main()
+    {
+        for(int i='c';i>='a';i--)//rows
+        {
+            for(int j='a';j<=i;j++)//cols
+                System.out.print(j);
+                System.out.println();
+        }
+    }
+}
