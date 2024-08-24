@@ -1,0 +1,11 @@
+class while_9
+{
+    static void main()
+    {
+        {
+            for (int i=1,z=0;i++,z++)
+            System.out.println(i);
+        }
+        while(z<=6);
+    }
+}
