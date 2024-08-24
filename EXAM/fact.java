@@ -1,0 +1,23 @@
+class fact
+{
+    int fact(int n)
+    {
+    int res=1,i;
+    for(i=1;i<=n;i++)
+    {
+        res*=i;
+    }
+    return res;
+    }
+    void faultseries(int num)
+    {
+        int res=0,a;
+        for(a=1;a<=0;a++)
+        {
+            if(a%2!=0)
+            {res+=fact(a);}
+        }
+        System.out.print(res);
+    }
+}
+    
