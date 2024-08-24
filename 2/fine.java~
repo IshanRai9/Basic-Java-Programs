@@ -1,0 +1,8 @@
+public class fine
+{
+    void main()
+    {
+        System.out.println("\n \"Hello\"fraands chai peelo");
+        System.out.println("chai peeona");
+    }
+}

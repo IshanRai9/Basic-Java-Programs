@@ -1,0 +1,20 @@
+public class calculator
+{
+    
+        int result;
+        void setdata(int a)
+        {this.result=a;}
+        void add(int b)
+        { 
+            int addition=result+b;
+         System.out.println(addition);
+        }
+        void sub(int c)
+        {
+        int subtract=result-c;
+         System.out.println(subtract);
+        }
+        
+    }
+
+        

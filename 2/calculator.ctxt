@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ setdata(int)
+comment1.params=b
+comment1.target=void\ add(int)
+comment2.params=c
+comment2.target=void\ sub(int)
+numComments=3

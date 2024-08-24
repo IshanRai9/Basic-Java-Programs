@@ -1,0 +1,13 @@
+class exam 
+{
+    public void main()
+    {int m,n;
+        m=100;
+        n=110;
+        m=m++;
+        System.out.print("\"No1=\""+m);
+        System.out.print("\n\"No2=\""+n);
+        n=--n*m;
+        System.out.print("\n\t Ans="+n);
+    }
+}

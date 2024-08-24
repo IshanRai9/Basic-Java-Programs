@@ -1,0 +1,21 @@
+class Area
+{
+    {
+        void Area(double r)
+        {
+           double circle=22/7*r*r;
+            System.out.println("Area of circle")+circle;
+        }
+        void Area(int side)
+        {
+            double square=side*side;
+            System.out.println("Area of square")+square;
+        }
+        void Area(int len,int wid)
+        {
+        double rect=len*wid;
+        System.out.println("Area of rect")+rect;
+       }
+      }
+    }
+            

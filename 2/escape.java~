@@ -1,0 +1,8 @@
+public class escape
+{
+    void main()
+    {
+        System.out.println("\n \"Hello!!\" how are you 'ishan'?");
+        System.out.println("I am fine");
+    }
+}
