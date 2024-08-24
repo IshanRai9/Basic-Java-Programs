@@ -1,0 +1,11 @@
+
+class prg42
+{
+    public static void main()
+    {
+        char a;int b;
+        for(a='A',b=10;b>=1;b--,a++)
+        System.out.print(a+""+((b*b)-1));
+    
+}
+}

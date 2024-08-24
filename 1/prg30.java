@@ -1,0 +1,9 @@
+class prg30
+{
+    public static void main()
+    {
+        int i;
+        for(i=1; i<=25; i++)
+        System.out.println(i);
+    }
+}

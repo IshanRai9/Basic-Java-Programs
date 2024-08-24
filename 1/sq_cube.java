@@ -1,0 +1,18 @@
+
+class sq_cube
+
+{
+    public static void main()
+    {
+        int roll,cub;
+        roll=3;
+        int squ=roll*roll;//Dynamic Initiallization//
+        cub=roll*roll*roll;
+        {
+            System.out.println("Number\tsquare\tcube");//escape sequences
+            System.out.println(roll+"\t"+squ+"\t"+cub);
+        }
+    }
+}
+            
+       

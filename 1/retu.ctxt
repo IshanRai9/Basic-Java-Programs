@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=len\ wid
+comment0.target=int\ rect(int,\ int)
+comment1.params=l\ m
+comment1.target=void\ main(int,\ int)
+numComments=2
