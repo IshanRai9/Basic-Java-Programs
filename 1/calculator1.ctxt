@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=void\ setdata(int)
+comment1.params=a
+comment1.target=void\ add(int)
+comment2.params=a
+comment2.target=void\ sub(int)
+comment3.params=a
+comment3.target=void\ mul(int)
+comment4.params=a
+comment4.target=void\ div(int)
+comment5.params=
+comment5.target=void\ setzero()
+numComments=6

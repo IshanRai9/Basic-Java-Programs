@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nu
+comment0.target=void\ square(int)
+comment1.params=nn
+comment1.target=void\ cube(int)
+comment2.params=num
+comment2.target=void\ main(int)
+numComments=3

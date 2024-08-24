@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=int\ calculate(int)
+comment1.params=p\ t
+comment1.target=void\ amount(int,\ int)
+numComments=2
